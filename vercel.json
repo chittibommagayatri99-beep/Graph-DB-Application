@@ -2,10 +2,5 @@
   "framework": "nextjs",
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
-  "installCommand": "npm install",
-  "env": {
-    "COGNODB_URI": "@cognodb-uri",
-    "COGNODB_USER": "@cognodb-user",
-    "COGNODB_PASSWORD": "@cognodb-password"
-  }
+  "installCommand": "npm install"
 }
